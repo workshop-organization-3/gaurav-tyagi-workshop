@@ -152,6 +152,3 @@ type Review @key(fields: "id") {
 type Subscription {
   reviewAdded: Review
 }
-type Subscription {
-  reviewAdded: Review
-}
